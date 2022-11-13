@@ -1,2 +1,11 @@
-src/BinaryTree linguist-documentation=false
-src/BinaryTree linguist-vendored
+News_Website/js linguist-documentation=false
+News_Website/js linguist-vendored
+
+News_Website/* linguist-documentation=false
+News_Website/* linguist-vendored
+
+NotesWebsiteProject/js linguist-documentation=false
+NotesWebsiteProject/js linguist-vendored
+
+taskforajax/* linguist-documentation=false
+taskforajax/* linguist-vendored
